@@ -7,13 +7,13 @@ Key Takeaways:
 6. GUI and CLI are different ways of interacting with the operating system.
 
 Topics Covered:
-- Introduction to Operating Systems
-- Functions of an Operating System
-- Types of Operating Systems
-- Operating System Architecture
-- Kernel and its Types
-- User Mode vs Kernel Mode
-- System Calls
-- Booting Process
-- Interrupts
-- Operating System Services
+1.  Introduction to Operating Systems
+2.  Functions of an Operating System
+3.  Types of Operating Systems
+4.  Operating System Architecture
+5.  Kernel and its Types
+6.  User Mode vs Kernel Mode
+7.  System Calls
+8.  Booting Process
+9.  Interrupts
+10. perating System Services
