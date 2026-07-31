@@ -1,8 +1,19 @@
-Key Takeaways
-
+Key Takeaways:
 1. OS = Interface + Resource Manager + Control Layer between applications and hardware.
 2. Manages CPU, memory, storage, files, and I/O devices for efficient execution.
 3. Kernel handles the core operations and manages access to system resources.
 4. System Calls provide the interface through which applications request OS services.
 5. User Mode vs Kernel Mode ensures protection and controlled access to critical resources.
 6. GUI and CLI are different ways of interacting with the operating system.
+
+Topics Covered:
+- Introduction to Operating Systems
+- Functions of an Operating System
+- Types of Operating Systems
+- Operating System Architecture
+- Kernel and its Types
+- User Mode vs Kernel Mode
+- System Calls
+- Booting Process
+- Interrupts
+- Operating System Services
