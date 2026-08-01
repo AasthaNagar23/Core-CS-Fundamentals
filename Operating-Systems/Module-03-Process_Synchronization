@@ -1,0 +1,21 @@
+Key Takeaways:
+1. Understood why race conditions occur when multiple processes access shared data simultaneously.
+2. Learned how synchronization ensures correct and predictable execution of concurrent processes.
+3. Studied the Critical Section Problem and its three essential requirements: Mutual Exclusion, Progress, and Bounded Waiting.
+4. Explored synchronization mechanisms including Mutex, Semaphore, and Monitor, along with their use cases and differences.
+5. Gained the ability to identify the appropriate synchronization technique for different concurrency scenarios.
+
+Topics Covered:
+1. Process Synchronization
+2. Race Condition
+3. Critical Section Problem
+4. Critical Section Requirements
+  - Mutual Exclusion
+  - Progress
+  - Bounded Waiting
+5. Mutex
+6. Semaphore
+  - Binary Semaphore
+  - Counting Semaphore
+7. Monitor
+8. Comparison of Mutex, Semaphore, and Monitor
