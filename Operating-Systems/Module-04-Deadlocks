@@ -1,0 +1,18 @@
+Key Takeaways:
+1. Understood how deadlocks occur and the four necessary conditions required for a deadlock to exist.
+2. Learned different strategies to handle deadlocks, including prevention, avoidance, detection, and recovery.
+3. Studied the concept of safe and unsafe states and how Banker's Algorithm helps avoid deadlocks.
+4. Learned to interpret Resource Allocation Graphs (RAG) and identify deadlocks in systems with single-instance resources.
+5. Gained a clear understanding of the complete deadlock handling lifecycle, from occurrence to recovery.
+
+Topics Covered:
+1.  Introduction to Deadlocks
+2.  Necessary Conditions for Deadlock (Coffman Conditions)
+3.  Deadlock Prevention
+4.  Deadlock Avoidance
+5.  Safe State and Unsafe State
+6.  Banker's Algorithm
+7.  Resource Allocation Graph (RAG)
+8.  Deadlock Detection
+9.  Deadlock Recovery
+10. Comparison of Prevention, Avoidance, Detection, and Recovery
