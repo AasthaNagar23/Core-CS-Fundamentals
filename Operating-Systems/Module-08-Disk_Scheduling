@@ -1,0 +1,15 @@
+Topics Covered:
+1. Introduction to Disk Scheduling
+2. Disk Access Time
+3. FCFS Disk Scheduling
+4. SSTF Disk Scheduling
+5. SCAN (Elevator Algorithm)
+6. C-SCAN
+7. LOOK
+8. C-LOOK
+
+
+Key Learnings:
+- Learned how the Operating System schedules disk I/O requests.
+- Compared different disk scheduling algorithms.
+- Practiced head movement calculations and algorithm-based numerical problems.
