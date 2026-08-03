@@ -1,0 +1,20 @@
+Topics Covered:
+1.  Virtual Memory
+2.  Demand Paging
+3.  Page Fault
+4.  Copy-on-Write (COW)
+5.  Page Replacement Algorithms
+  - FIFO
+  - Optimal
+  - LRU
+6.  Belady's Anomaly
+7.  Thrashing
+8.  Locality of Reference
+9.  Working Set Model
+10. Page Fault Frequency (PFF)
+
+
+Key Learnings:
+- Learned how virtual memory allows execution of programs larger than physical memory.
+- Studied page replacement algorithms and their performance.
+- Understood page faults, thrashing, and memory optimization techniques.
