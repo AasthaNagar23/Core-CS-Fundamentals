@@ -1,0 +1,21 @@
+Topics Covered:
+1. Memory Management Basics
+2. Logical vs Physical Address
+3. Address Binding
+4. Memory Allocation
+  - Fixed Partitioning
+  - Variable Partitioning
+5. Fragmentation
+  - Internal Fragmentation
+  - External Fragmentation
+6. Compaction
+7. Paging
+8. Page Table
+9. Segmentation
+
+
+Key Learnings:
+- Understood how the Operating System manages main memory.
+- Learned different memory allocation techniques.
+- Studied fragmentation problems and their solutions.
+- Explored paging and segmentation for efficient memory management.
