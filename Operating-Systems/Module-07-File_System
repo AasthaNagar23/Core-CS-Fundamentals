@@ -1,0 +1,18 @@
+Topics Covered:
+1. Introduction to File System
+2. File Concept & Attributes
+3. File Operations
+4. File Access Methods
+5. Directory Structure
+6. File Allocation Methods
+  - Contiguous Allocation
+  - Linked Allocation
+  - Indexed Allocation
+7. Free Space Management
+8. File Protection & Permissions
+
+
+Key Learnings:
+- Learned how files are organized and managed by the Operating System.
+- Studied different file allocation methods and directory structures.
+- Understood free space management and file protection mechanisms.
