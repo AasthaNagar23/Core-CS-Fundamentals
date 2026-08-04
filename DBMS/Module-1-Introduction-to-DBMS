@@ -1,0 +1,29 @@
+Topics Covered:
+1. Introduction to Data and Information
+2. Database Concepts
+3. Database Management System (DBMS)
+4. Need for DBMS
+5. File System vs DBMS
+6. Advantages and Features of DBMS
+7. Three Schema Architecture
+  - External Level
+  - Conceptual Level
+  - Internal Level
+8. Data Independence
+  - Logical Data Independence
+  - Physical Data Independence
+9. Data Models
+  - Hierarchical Model
+  - Network Model
+  - Relational Model
+  - Object-Oriented Model
+
+
+Key Takeaways:
+- Understood the difference between data, information, database, and DBMS.
+- Learned why DBMS is preferred over traditional file systems.
+- Studied problems of file systems such as redundancy and inconsistency.
+- Learned important DBMS advantages including security, integrity, backup, and concurrency control.
+- Understood the three levels of DBMS architecture and data abstraction.
+- Learned the concept of logical and physical data independence.
+- Explored different database models and understood why the relational model is widely used.
