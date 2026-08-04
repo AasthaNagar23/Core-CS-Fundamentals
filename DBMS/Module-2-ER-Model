@@ -1,0 +1,38 @@
+Topics Covered:
+1.  Introduction to ER Model
+2.  Entity
+3.  Entity Type
+4.  Entity Instance
+5.  Entity Set
+6.  Attributes
+  - Simple Attribute
+  - Composite Attribute
+  - Single-Valued Attribute
+  - Multi-Valued Attribute
+  - Derived Attribute
+  - Key Attribute
+7.  Relationships
+8.  Relationship Set
+9.  Degree of Relationship
+  - Unary Relationship
+  - Binary Relationship
+  - Ternary Relationship
+10. Cardinality Constraints
+  - One-to-One (1:1)
+  - One-to-Many (1:N)
+  - Many-to-One (N:1)
+  - Many-to-Many (M:N)
+11. ER Diagram Components
+12. ER Diagram Symbols
+13. ER to Relational Model Conversion Basics
+
+
+Key Takeaways:
+- Learned how databases are designed using the Entity Relationship model.
+- Understood the difference between entity type, entity instance, and entity set.
+- Learned how attributes define properties of entities.
+- Studied different types of attributes used in ER diagrams.
+- Understood relationships between entities and their degree.
+- Learned cardinality constraints and how entities participate in relationships.
+- Learned ER diagram symbols and database design representation.
+- Understood basic conversion rules from ER diagrams to relational tables.
