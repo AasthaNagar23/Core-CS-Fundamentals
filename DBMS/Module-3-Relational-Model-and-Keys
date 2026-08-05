@@ -1,0 +1,40 @@
+Topics Covered:
+1. Introduction to Relational Model
+2. Relational Database Terminology
+  - Relation
+  - Tuple
+  - Attribute
+  - Domain
+  - Degree
+  - Cardinality
+3. Keys in DBMS
+  - Super Key
+  - Candidate Key
+  - Primary Key
+  - Alternate Key
+  - Foreign Key
+  - Composite Key
+4. Integrity Constraints
+  - Domain Constraint
+  - Key Constraint
+  - Entity Integrity Constraint
+  - Referential Integrity Constraint
+5. Relational Algebra
+  - Selection (σ)
+  - Projection (π)
+  - Union (∪)
+  - Intersection (∩)
+  - Set Difference (-)
+  - Cartesian Product (×)
+  - Join (⋈)
+
+
+Key Takeaways:
+- Learned how data is represented using relations (tables) in the relational model.
+- Understood the difference between relation, tuple, attribute, domain, degree, and cardinality.
+- Studied different types of keys and their role in uniquely identifying records.
+- Learned the difference between Super Key, Candidate Key, and Primary Key.
+- Understood how foreign keys establish relationships between tables.
+- Learned integrity constraints used to maintain data accuracy and consistency.
+- Studied relational algebra operations used for querying and manipulating relations.
+- Understood the difference between selection (rows) and projection (columns).
