@@ -1,0 +1,33 @@
+Topics Covered:
+1. Introduction to Normalization
+2. Need for Normalization
+3. Database Anomalies
+  - Insertion Anomaly
+  - Update Anomaly
+  - Deletion Anomaly
+4.Functional Dependency
+  - Determinant and Dependent Attributes
+  - Full Functional Dependency
+  - Partial Functional Dependency
+  - Transitive Functional Dependency
+5. Normal Forms
+  - First Normal Form (1NF)
+  - Second Normal Form (2NF)
+  - Third Normal Form (3NF)
+  - Boyce-Codd Normal Form (BCNF)
+6. Decomposition
+  - Lossless Decomposition
+  - Lossy Decomposition
+  - Dependency Preservation
+
+
+Key Takeaways:
+- Learned the importance of normalization in reducing data redundancy.
+- Understood different database anomalies caused by poor database design.
+- Learned functional dependency and its role in normalization.
+- Understood full, partial, and transitive dependencies.
+- Learned how 1NF removes repeating groups and ensures atomic values.
+- Understood how 2NF removes partial dependency.
+- Understood how 3NF removes transitive dependency.
+- Learned BCNF and its stricter condition compared to 3NF.
+- Understood decomposition and the concepts of lossless decomposition and dependency preservation.
