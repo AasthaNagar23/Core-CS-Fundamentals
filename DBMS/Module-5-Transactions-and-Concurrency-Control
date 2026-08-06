@@ -1,0 +1,43 @@
+Topics Covered:
+1. Transaction Concept
+  - Definition of Transaction
+  - Need for Transactions
+  - Read and Write Operations
+2. ACID Properties
+  - Atomicity
+  - Consistency
+  - Isolation
+  - Durability
+3. Transaction States
+  - Active State
+  - Partially Committed State
+  - Committed State
+  - Failed State
+  - Aborted State
+4. Schedules
+  - Serial Schedule
+  - Concurrent Schedule
+5. Serializability
+  - Conflict Serializability
+6. Concurrency Control
+  - Lock Concept
+  - Shared Lock
+  - Exclusive Lock
+  - Lock Compatibility
+  - Two Phase Locking (2PL)
+  - Strict 2PL
+7. Deadlock
+  - Deadlock Conditions
+  - Deadlock Prevention
+  - Deadlock Detection
+  - Deadlock Recovery
+
+
+Key Takeaways:
+- Learned how transactions represent a logical unit of database operations.
+- Understood ACID properties that ensure reliable transaction execution.
+- Learned different transaction states and their execution flow.
+- Understood serial and concurrent schedules.
+- Learned how serializability maintains database consistency during concurrent execution.
+- Studied locks and Two Phase Locking for concurrency control.
+- Understood deadlock, its conditions, prevention, detection, and recovery techniques.
