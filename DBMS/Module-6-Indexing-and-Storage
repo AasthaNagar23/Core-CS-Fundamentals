@@ -1,0 +1,38 @@
+Topics Covered:
+1. File Organization
+  - Heap File Organization
+  - Sequential File Organization
+  - Hash File Organization
+2. Indexing
+  - Need for Indexing
+  - Search Key and Pointer
+  - Dense Index
+  - Sparse Index
+3. Types of Index
+  - Primary Index
+  - Secondary Index
+  - Clustered Index
+  - Non-Clustered Index
+4. B+ Tree Indexing
+  - Need for B+ Tree
+  - Structure of B+ Tree
+  - Searching
+  - Insertion
+  - Deletion
+  - Advantages of B+ Tree
+5. Hashing in DBMS
+  - Hash Function
+  - Hash Table
+  - Collision Handling
+  - Static Hashing
+  - Dynamic Hashing
+
+
+Key Takeaways:
+- Learned how records are physically stored using different file organization techniques.
+- Understood indexing as a technique to improve data retrieval speed.
+- Learned the difference between dense and sparse indexing.
+- Studied different types of indexes used in databases.
+- Understood B+ Tree as a balanced indexing structure used for efficient searching and range queries.
+- Learned hashing techniques for fast exact record retrieval.
+- Understood collision handling and the difference between static and dynamic hashing.
