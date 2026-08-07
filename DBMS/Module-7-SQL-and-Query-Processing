@@ -1,0 +1,62 @@
+Topics Covered:
+1. Introduction to SQL
+  - SQL and DBMS
+  - DDL
+  - DML
+  - DCL
+  - TCL
+2. SQL Constraints
+  - Primary Key
+  - Foreign Key
+  - UNIQUE
+  - NOT NULL
+  - CHECK
+  - DEFAULT
+3. SQL Queries
+  - SELECT
+  - WHERE
+  - DISTINCT
+  - ORDER BY
+  - GROUP BY
+  - HAVING
+  - Aggregate Functions
+    - COUNT()
+    - SUM()
+    - AVG()
+    - MAX()
+    - MIN()
+4. SQL Joins
+  - INNER JOIN
+  - LEFT JOIN
+  - RIGHT JOIN
+  - FULL OUTER JOIN
+  - SELF JOIN
+5. Subqueries
+  - Single-Row Subquery
+  - Multi-Row Subquery
+  - Nested Queries
+  - IN
+  - EXISTS
+  - Correlated Subquery
+  - Subquery vs JOIN
+6. Advanced SQL and Query Processing
+  - Views
+  - Stored Procedures
+  - Triggers
+  - Query Processing
+  - Parsing
+  - Query Optimization
+  - Execution Plan
+
+
+Key Takeaways:
+- Learned SQL as a language for interacting with relational databases.
+- Understood DDL, DML, DCL, and TCL commands.
+- Learned different SQL constraints and their role in maintaining data integrity.
+- Practiced SQL queries using SELECT, WHERE, ORDER BY, GROUP BY, and HAVING.
+- Understood aggregate functions such as COUNT(), SUM(), AVG(), MAX(), and MIN().
+- Learned different types of SQL joins and when to use them.
+- Understood subqueries, nested queries, IN, EXISTS, and correlated subqueries.
+- Learned the purpose of views, stored procedures, and triggers.
+- Understood the basic stages of query processing and query optimization.
+- Learned how indexes can improve query execution performance.
