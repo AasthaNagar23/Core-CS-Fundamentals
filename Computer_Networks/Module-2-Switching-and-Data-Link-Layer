@@ -1,0 +1,40 @@
+Topics Covered:
+1.  Switching
+  - Circuit Switching
+  - Packet Switching
+  - Message Switching
+2.  Packet Switching Types
+  - Datagram Switching
+  - Virtual Circuit Switching
+3.  Data Link Layer
+  - Functions of Data Link Layer
+  - Framing
+  - MAC Addressing
+4.  Error Detection
+  - Parity Check
+  - Checksum
+  - CRC
+5.  Flow Control
+  - Stop-and-Wait
+  - Sliding Window
+6.  Ethernet
+7.  MAC Address
+8.  Unicast, Broadcast, and Multicast
+9.  CSMA/CD
+10. CSMA/CA
+11. Ethernet vs Wi-Fi Collision Handling
+
+
+Key Takeaways:
+- Understood the basic switching techniques used in computer networks.
+- Learned the difference between circuit switching and packet switching.
+- Understood datagram and virtual circuit packet switching.
+- Learned the role of the Data Link Layer in framing and local delivery.
+- Understood MAC addressing and its difference from IP addressing.
+- Learned common error detection techniques including parity, checksum, and CRC.
+- Practiced basic error-detection numericals.
+- Understood flow control using Stop-and-Wait and Sliding Window.
+- Learned the basics of Ethernet and MAC communication.
+- Understood unicast, broadcast, and multicast transmission.
+- Learned CSMA/CD and its association with traditional/shared Ethernet.
+- Understood the difference between CSMA/CD and CSMA/CA.
