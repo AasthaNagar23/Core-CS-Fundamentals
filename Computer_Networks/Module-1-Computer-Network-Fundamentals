@@ -1,0 +1,45 @@
+Topics Covered:
+1.  Introduction to Computer Networks
+2.  Need for Computer Networks
+3.  Network Components
+4.  Network Protocols
+5.  Types of Networks
+  - LAN
+  - MAN
+  - WAN
+6.  Network Topologies
+  - Bus
+  - Star
+  - Ring
+  - Mesh
+7.  Network Devices
+  - Hub
+  - Switch
+  - Router
+  - Repeater
+  - Bridge
+  - Gateway
+  - Modem
+8.  OSI Model
+  - Physical Layer
+  - Data Link Layer
+  - Network Layer
+  - Transport Layer
+  - Session Layer
+  - Presentation Layer
+  - Application Layer
+9.  TCP/IP Model
+10. OSI vs TCP/IP
+11. Encapsulation and Decapsulation
+12. Protocol Data Units (PDUs)
+
+Key Takeaways:
+- Understood the fundamentals of computer networks and why networks are required.
+- Learned LAN, MAN, and WAN.
+- Understood common network topologies and their characteristics.
+- Learned the functions of major networking devices.
+- Understood the seven layers of the OSI model.
+- Learned the commonly used four-layer TCP/IP model.
+- Understood the mapping between OSI and TCP/IP layers.
+- Learned the basic PDUs: Bits, Frames, Packets, and Segments/Datagrams.
+- Understood encapsulation and decapsulation during data transmission.
