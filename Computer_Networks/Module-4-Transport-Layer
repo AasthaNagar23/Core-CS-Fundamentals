@@ -1,0 +1,38 @@
+Topics Covered:
+1.  Transport Layer Overview
+2.  Process-to-Process Communication
+3.  TCP (Transmission Control Protocol)
+4.  UDP (User Datagram Protocol)
+5.  TCP vs UDP
+6.  TCP 3-Way Handshake
+7.  TCP Reliability
+8.  Sequence Numbers
+9.  Acknowledgment Numbers
+10. Retransmission
+11. Checksum
+12. Flow Control
+13. Receive Window (rwnd)
+14. Sliding Window
+15. Congestion Control
+16. Congestion Window (cwnd)
+17. Slow Start
+18. Congestion Avoidance
+19. Duplicate ACKs
+20. Fast Retransmit
+21. Port Numbers
+22. Socket Basics
+
+Key Takeaways:
+- Understood process-to-process communication at the Transport Layer.
+- Learned the differences between TCP and UDP.
+- Understood TCP connection establishment using:
+  SYN → SYN-ACK → ACK.
+- Learned how TCP provides reliable and ordered delivery.
+- Understood sequence numbers, acknowledgments, checksum, and retransmission.
+- Learned flow control and the role of the receive window (rwnd).
+- Understood congestion control and the congestion window (cwnd).
+- Learned the basic concepts of Slow Start and Congestion Avoidance.
+- Understood the difference between flow control and congestion control.
+- Learned that IP identifies a host while a port identifies a process/application.
+- Learned important port numbers such as HTTP (80), HTTPS (443), SSH (22), DNS (53), and FTP (21).
+- Understood the basic concept of a network socket.
