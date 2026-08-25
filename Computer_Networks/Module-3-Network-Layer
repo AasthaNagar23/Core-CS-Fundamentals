@@ -1,0 +1,33 @@
+Topics Covered:
+1.  Network Layer Overview
+2.  IPv4 Addressing
+3.  IPv6 Basics
+4.  Subnetting
+5.  CIDR (Classless Inter-Domain Routing)
+6.  Network Address and Broadcast Address
+7.  Usable Host Addresses
+8.  Routing
+9.  Static vs Dynamic Routing
+10. Distance Vector Routing
+11. Link State Routing
+12. Path Vector Routing
+13. RIP (Routing Information Protocol)
+14. OSPF (Open Shortest Path First)
+15. BGP (Border Gateway Protocol)
+16. ARP (Address Resolution Protocol)
+17. ICMP (Internet Control Message Protocol)
+18. DHCP (Dynamic Host Configuration Protocol)
+
+Key Takeaways:
+- Understood the role of the Network Layer in host-to-host communication.
+- Learned IPv4 addressing and basic IPv6 concepts.
+- Learned subnetting and CIDR notation.
+- Learned how to calculate host capacity and subnet ranges.
+- Understood network address, broadcast address, and usable host range.
+- Learned the basic difference between static and dynamic routing.
+- Understood Distance Vector, Link State, and Path Vector routing.
+- Learned the basic roles of RIP, OSPF, and BGP.
+- Understood ARP for mapping IPv4 addresses to MAC addresses.
+- Learned ICMP for error reporting and network diagnostics.
+- Learned DHCP and the DORA process:
+  Discover → Offer → Request → Acknowledgment.
