@@ -1,0 +1,39 @@
+Topics Covered:
+1.  Network Security Fundamentals
+2.  CIA Triad
+  - Confidentiality
+  - Integrity
+  - Availability
+3.  Encryption
+4.  Symmetric Encryption
+5.  Asymmetric Encryption
+6.  AES (Advanced Encryption Standard)
+7.  RSA (Rivest–Shamir–Adleman)
+8.  Hashing
+9.  SHA-256
+10. Digital Signatures
+11. TLS (Transport Layer Security)
+12. HTTPS Security
+13. Firewalls
+14. VPN (Virtual Private Network)
+15. DoS (Denial of Service)
+16. DDoS (Distributed Denial of Service)
+17. MITM (Man-in-the-Middle)
+18. Phishing
+19. Spoofing
+20. Brute Force Attacks
+
+Key Takeaways:
+- Learned the three goals of network security: Confidentiality, Integrity, and Availability.
+- Understood the difference between encryption and hashing.
+- Learned symmetric encryption using a shared secret key.
+- Learned asymmetric cryptography using public and private keys.
+- Understood AES as a symmetric encryption algorithm.
+- Understood RSA as an asymmetric cryptographic algorithm.
+- Learned cryptographic hashing and SHA-256.
+- Understood the purpose of digital signatures.
+- Learned the role of TLS in securing network communication.
+- Understood how HTTPS uses TLS to provide secure web communication.
+- Learned the basic role of firewalls in controlling network traffic.
+- Understood VPNs as secure tunnels over untrusted networks.
+- Learned the basic concepts of DoS, DDoS, MITM, phishing, spoofing, and brute-force attacks.
